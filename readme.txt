@@ -1,6 +1,7 @@
 Git is a versdistributed versionion control system.
 Git is free software distributed under the GPL.
 Git has a mutable index called stage.
+Git tracks changes.
 
 lesson 1：
 现在总结一下今天学的两点内容：
