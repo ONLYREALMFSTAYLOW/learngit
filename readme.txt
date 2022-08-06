@@ -1,5 +1,5 @@
 Git is a versdistributed versionion control system.
-Git is free software.
+Git is free software distributed under the GPL.
 
 lesson 1：
 现在总结一下今天学的两点内容：
@@ -11,3 +11,6 @@ lesson 1：
 1.第二次 git 的时候还是需要重新添加的
 2.messagee 是更新备注
 
+lesson 2：
+要随时掌握工作区的状态，使用git status命令。
+如果git status告诉你有文件被修改过，用git diff可以查看修改内容。
