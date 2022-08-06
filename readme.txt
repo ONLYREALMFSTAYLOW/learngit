@@ -1,4 +1,4 @@
-Git is a version control system.
+Git is a versdistributed versionion control system.
 Git is free software.
 
 lesson 1：
@@ -7,3 +7,7 @@ lesson 1：
 2.添加文件到Git仓库，分两步：
 使用命令git add <file>，注意，可反复多次使用，添加多个文件；
 使用命令git commit -m <message>，完成。
+笔记：
+1.第二次 git 的时候还是需要重新添加的
+2.messagee 是更新备注
+
