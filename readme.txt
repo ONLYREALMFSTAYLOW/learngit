@@ -62,3 +62,5 @@ $ cd xxx
 $ ls
 
 try again
+
+这条用以说明 vs 自动 commit and push 成功
